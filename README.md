@@ -1,19 +1,8 @@
 <!-- 헤더 -->
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=Waving&bg_color=30,3B82F6,2563EB,1D4ED8&title_color=E0F2FE&text_color=BFDBFE&height=230&section=header&text=KimJawKwan&fontAlign=68&fontAlignY=36&desc=BackEnd&descAlign=88.5&descAlignY=50&animation=twinkling" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=KimJawKwan&fontAlign=68&fontAlignY=36&desc=BackEnd&descAlign=88.5&descAlignY=50&animation=twinkling&gradientColor=0F172A,1E293B&text_color=38BDF8" 
     alt="header"
-    width="900"
-  >
-</div>
-
-<br>
-
-<!-- 활동 그래프 -->
-<div align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=KJaeKwan&theme=react-dark&bg_color=20232a&hide_border=true&line=5bcdec&color=5bcdec" 
-    alt="GitHub Activity Graph"
     width="900"
   >
 </div>
@@ -24,19 +13,32 @@
 <div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: flex-start;">
   <a href="https://github.com/KJaeKwan">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=KJaeKwan&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff"
+      src="https://github-readme-stats.vercel.app/api?username=KJaeKwan&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"
       alt="GitHub Stats"
       height="200"
     >
   </a>
-  <a href="https://solved.ac/shash042319/">
+
+  <a href="https://www.acmicpc.net/user/shash042319">
     <img 
-      src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shash042319"
-      alt="Solved.ac Profile"
+      src="https://bojstat.vulcan.site/v2/en/shash042319?theme=dark&textColor=E2E8F0"
+      alt="BOJ Profile"
       height="200"
     >
   </a>
 </div>
+
+<br>
+
+<!-- 활동 그래프 -->
+<div align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=KJaeKwan&theme=react-dark&bg_color=0F172A&hide_border=true&line=38BDF8&point=38BDF8&color=E2E8F0" 
+    alt="GitHub Activity Graph"
+    width="900"
+  >
+</div>
+
 
 ✨ Tech Stacks
 ---

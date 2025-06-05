@@ -15,7 +15,7 @@
     <img 
       src="https://github-readme-stats.vercel.app/api?username=KJaeKwan&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"
       alt="GitHub Stats"
-      width="350"
+      width="450"
     >
   </a>
 
@@ -23,7 +23,7 @@
     <img 
       src="https://bojstat.vulcan.site/v2/en/shash042319?theme=dark&textColor=E2E8F0"
       alt="BOJ Profile"
-      width="350"
+      width="450"
     >
   </a>
 </div>

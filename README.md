@@ -61,7 +61,10 @@
 🫂 Projects
 ---
 | 프로젝트명 | 설명 | 기간 |
-|------------|------|------|
+| --- | --- | --- |
+| **LG 기업 연계 프로젝트** | LifeZip 사용성 개선 | 2025/08 ~ 2025/09 |
+| **Store Group - 앱인토스** | 영업 사원을 위한 방문할 매장 그루핑 서비스 | 2025/08 ~ |
+| **Lite Board** | 프로젝트 일정 관리를 위한 서비스 | 2025/06 ~ |
 | **WITHUS** | 리크루팅을 하나의 플랫폼에서 통합 관리할 수 있도록 만든 리크루팅 통합 서비스 | 2025/04 ~ 2025/05 |
 | **서울우유 기업 연계 프로젝트** | 서울우유와의 협력 프로젝트로 세금계산서 진위여부 판단 과정을 자동화하는 서비스 | 2025/02 ~ 2025/03 |
 | **BAMBOO** | AI·데이터 동아리 내부 활동을 위한 자체 플랫폼 | 2025/01 ~ 2025/03 |
@@ -81,37 +84,11 @@
 
 <br>
 
-🏅 Certifications
----
-- **TOEIC Speaking** - **IH**
-- **AWS Certified Cloud Practitioner** (CLF-C02)
-
-<br>
-
-🏆 Awards
----
-- **[최우수상]** 한국대학생IT경영학회 - WITHUS: 리크루팅 통합 솔루션 개발
-- **[최우수상]** 제3회 2024 SM@ COSSTHON - MoonNest: AI 기반 영유아 행동 발달 추적 서비스 제안 및 프로토타입 제작
-- **[우수상]** 2024년 SW중심대학사업 인공지능과 클라우드를 활용한 서비스·콘텐츠 활용 사례 공모전 - 긴급재난 대피 알림 서비스 제안
-
-<br>
 
 📖 Educations
 ---
 - 상명대학교 휴먼AI공학과
     - 2020.03 ~ 2026.02. (졸업 예정)
-    - 학점 4.23 / 4.5
+    - 학점 4.25 / 4.5
 
-<br>
-
-📫 Contact
----
-<div style="display: flex; gap: 6px;">
-  <a href="mailto:jaegwan101@gmail.com">
-    <img src="https://img.shields.io/badge/jaegwan101@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/01__jk__01/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-</div>
 

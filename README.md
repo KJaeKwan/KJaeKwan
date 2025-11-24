@@ -48,36 +48,7 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=hibernate&logoColor=white" />
 </div>
-<div style="display: flex; flex-wrap: wrap; gap: 6px;">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white" />
-</div>
-
-<br>
-
-🫂 Projects
----
-| 프로젝트명 | 설명 | 기간 |
-| --- | --- | --- |
-| **LG 기업 연계 프로젝트** | LifeZip 사용성 개선 | 2025/08 ~ 2025/09 |
-| **Store Group - 앱인토스** | 영업 사원을 위한 방문할 매장 그루핑 서비스 | 2025/08 ~ |
-| **Lite Board** | 프로젝트 일정 관리를 위한 서비스 | 2025/06 ~ |
-| **WITHUS** | 리크루팅을 하나의 플랫폼에서 통합 관리할 수 있도록 만든 리크루팅 통합 서비스 | 2025/04 ~ 2025/05 |
-| **서울우유 기업 연계 프로젝트** | 서울우유와의 협력 프로젝트로 세금계산서 진위여부 판단 과정을 자동화하는 서비스 | 2025/02 ~ 2025/03 |
-| **BAMBOO** | AI·데이터 동아리 내부 활동을 위한 자체 플랫폼 | 2025/01 ~ 2025/03 |
-| **Fever Partners** | 스스로 동기 부여하기 힘든 사람들을 위한 플랫폼 | 2024/01 ~ 2024/02 |
-
-
-<br>
-
-🚆 Activities
----
-| 활동 | 활동 기간 | 활동 내용 |
-| --- | --- | --- |
-| 큐시즘 31기 | 2025/02 ~ 2025/06 | 기업 프로젝트, 사이드 프로젝트 진행 및 백엔드 스터디 |
+<div style="disp기 | 2025/02 ~ 2025/06 | 기업 프로젝트, 사이드 프로젝트 진행 및 백엔드 스터디 |
 | BAMBOO 5기 (교내 데이터, AI 동아리) | 2024/09 ~ 2024/12 | 데이터 분석, 머신러닝 학습  |
 | 피로그래밍 21기 운영진 | 2024/03 ~ 2024/08 | 동아리 운영 및 관리 |
 | 피로그래밍 20기 | 2023/12 ~ 2024/02 | 웹 개발에 대한 전반적인 학습 후 첫 프로젝트 진행 |
